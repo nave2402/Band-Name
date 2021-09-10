@@ -1,0 +1,6 @@
+Python programming:
+
+print ('Walcome to your "Band Name" generator :)')
+city_name = input("Please enter your city name: \n" )
+Animal_name = input("Now please enter your favorite animal name: \n")
+print('The generator recommend the name "' + city_name + " " + Animal_name + '" for your band\nHave a nice day' )
